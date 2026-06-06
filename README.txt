@@ -1,13 +1,21 @@
-PROJECT NAME:
-Password Strength Analyzer
+# Password Strength Analyzer
 
-LANGUAGE:
-Python
+## Overview
+A Python-based security tool that evaluates password strength and helps users create secure passwords.
 
-FEATURES:
-1. Password strength analysis
-2. Password generation
-3. Security suggestions
+## Features
+- Password strength analysis
+- Password generator
+- Common password detection
+- Security suggestions
+- Password complexity checks
 
-HOW TO RUN:
+## Technologies Used
+- Python
+- Regular Expressions (Regex)
+- Random Module
+
+## How to Run
+
+```bash
 python main.py
